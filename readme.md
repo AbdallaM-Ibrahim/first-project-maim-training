@@ -6,7 +6,7 @@ This repository contains code for MAIM Training written in only HTML and CSS.
 
 - [First Project (MAIM Training)](#first-project-maim-training)
   - [Table of Contents](#table-of-contents)
-  - [Description](#description)
+  - [Requirements](#requirements)
     - [HTML](#html)
     - [CSS](#css)
     - [Want more Bonus?](#want-more-bonus)
@@ -15,9 +15,7 @@ This repository contains code for MAIM Training written in only HTML and CSS.
   - [Usage](#usage)
   - [License](#license)
 
-## Description
-
-
+## Requirements
 
 The code in this repository fulfills the following requirements:
 
@@ -39,8 +37,8 @@ The code in this repository fulfills the following requirements:
 * [x] Add a README file with the syntax of GitHub README files. $\color{orange}{(Bonus)}$
 
 ### How to Submit?
-* [ ] Upload Zip file to our Portal
-* [x] Create GitHub Repo and send the link to us (Maybe Bonus)
+* [x] Upload Zip file to our Portal
+* [x] Create GitHub Repo and send the link to us $\color{orange}{(Maybe Bonus)}$
 
 ## Installation
 
