@@ -38,7 +38,7 @@ The code in this repository fulfills the following requirements:
 
 ### How to Submit?
 * [x] Upload Zip file to our Portal
-* [x] Create GitHub Repo and send the link to us $\color{orange}{(Maybe Bonus)}$
+* [x] Create GitHub Repo and send the link to us $\color{orange}{(Maybe\ Bonus)}$
 
 ## Installation
 
